@@ -35,6 +35,7 @@
   • predict(X)
   • predict_proba(X)
   • score(X,Y)
+  
 • Random forest
   • fit(X,Y)
   • predict(X)
