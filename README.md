@@ -22,7 +22,7 @@
 
 • Attributes:
   • under_pressure
-	• position
+  • position
   • play_pattern
   • body_part
   • technique
