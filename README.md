@@ -19,22 +19,41 @@
 
 # xG Model
 • I have used Statsbomb's open-data for traning and testing my models
+
 • Attributes:
+
   • under_pressure
+
   • position
+  
   • play_pattern
+  
   • body_part
+  
   • technique
+  
   • type
+  
   • distance
+  
   • angle
+
 # scikit-learn
+
 • Logistic regression
+  
   • fit(X,Y)
+  
   • predict(X)
+  
   • predict_proba(X)
+  
   • score(X,Y)
+
 • Random forest
+  
   • fit(X,Y)
+  
   • predict(X)
+  
   • score(X,Y)
